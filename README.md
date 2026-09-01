@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Analysis projects for my portfolio<br>Data Analysis Internship opportunities (EAC - Campina Grande)<br>SQL, Python, Java, and Power BI<br>Data Analysis and my 3-year university journey
+Data Analysis projects for my portfolio<br>Data Analysis Internship opportunities (EAC - Campina Grande)<br>SQL, Python, Java, and Power BI<br>Data Analysis and my 2-year university journey
 
 
 ## 🌐 Socials:
